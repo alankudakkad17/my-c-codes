@@ -1,6 +1,3 @@
-/*Name:basil p babu
-  roll no: 18
-  Class:AI&DS*/
 #include <stdio.h>
 int main()
 {
