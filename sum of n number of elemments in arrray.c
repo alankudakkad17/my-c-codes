@@ -1,6 +1,4 @@
-/* NAME:basil p babu
-   ROLL NO:18
-   CLASS:AI&DS*/
+
 #include<stdio.h>
 int main()
 {
