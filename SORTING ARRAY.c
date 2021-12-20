@@ -1,4 +1,4 @@
-/*NAME:basil p babu
+/*NAME:alan
  RollNo:18
  class:AI&DS*/
 #include<stdio.h>
